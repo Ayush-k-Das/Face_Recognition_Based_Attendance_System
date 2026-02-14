@@ -1,9 +1,3 @@
-Below is a professional **GitHub README.md** for your project.
-
-You can directly copy this into your repository as `README.md`.
-
----
-
 # 🎯 Face Recognition Based Attendance System
 
 A web-based attendance system that uses **computer vision and machine learning** to automatically mark attendance through real-time face recognition using a webcam.
